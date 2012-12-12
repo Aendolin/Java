@@ -1,3 +1,5 @@
+// Taken from Computer Networking by Kurose and Ross
+
 import java.io.*;
 import java.net.*;
 class TCPServer
